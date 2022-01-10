@@ -1,0 +1,23 @@
+
+### IntelliJ IDEA ###
+/.idea/
+/private/
+/storage/
+/litemall.iml
+.checkstyle
+.idea
+*.iws
+*.iml
+*.ipr
+rebel.xml
+### maven ###
+target/
+*.war
+*.ear
+*.zip
+*.tar
+*.tar.gz
+
+### logs ####
+/logs/
+*.log
